@@ -1,6 +1,6 @@
-import Expenses from "./components/Expenses";
+import Expenses from "./components/Expenses/Expenses";
 
-function App() {
+const App = () => {
   // Imparative Approach
   // const para = document.createElement("p");
   // para.textContent = "This is also visible";
@@ -31,6 +31,6 @@ function App() {
       {/* <p>This is not also visible</p> */}
     </div>
   );
-}
+};
 
 export default App;
