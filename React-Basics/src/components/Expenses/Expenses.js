@@ -1,10 +1,12 @@
 import ExpenseItem from "./ExpenseItem";
 import "./Expenses.css";
 import Card from "../UI/Card";
+import NewExpense  from "../NewExpense/NewExpense";
 
 const Expenses = (props) => {
   return (
     <Card className="expenses">
+      <NewExpense />
       <ExpenseItem
         title={props.expenses[0].title}
         amount={props.expenses[0].amount}
