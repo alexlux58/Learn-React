@@ -1,12 +1,12 @@
-# Welcome to the React-Examples Repository!
+# Introduction
 
-This repository is a collection of React projects that demonstrate various aspects of React development. Whether you're a beginner or an experienced developer, you'll find these examples useful for understanding different React concepts and techniques.
+Welcome to the React-Examples repository! This repository is a collection of React projects that demonstrate various aspects of React development. Whether you're a beginner or an experienced developer, you'll find these examples useful for understanding different React concepts and techniques.
 
 ## Projects Included
 
-### 01-starting-project 2
+### Goals Tracker
 
-- **Description**: This project focuses on course goal management. It allows you to add and remove course goals.
+- **Description**: This project focuses on tracking and managing your course goals.
 - **Key Features**:
   - Add new goals
   - Delete existing goals
@@ -16,21 +16,9 @@ This repository is a collection of React projects that demonstrate various aspec
   - `CourseGoalList.js`
   - `CourseInput.js`
 
-### Expense Tracker
+### React Concepts
 
-- **Description**: This project is an expense tracker application that allows you to manage and view your expenses.
-- **Key Features**:
-  - Add new expenses
-  - Filter expenses by date
-- **Technologies Used**: React, useState
-- **Files of Interest**:
-  - `App.js`
-  - `Expenses.js`
-  - `NewExpense.js`
-
-### demoWebApp/01-starting-setup
-
-- **Description**: This is a demo web application that introduces key React concepts.
+- **Description**: This project is designed to introduce key React concepts such as Components, State, and Events.
 - **Key Features**:
   - Explains Components
   - Explains State
