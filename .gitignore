@@ -1,0 +1,51 @@
+# Dependency directories
+node_modules/
+package-lock.json
+yarn.lock
+
+# Output directories
+/build
+/dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDEs and text editors
+*.idea/
+*.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.tmp.*
+*.swp
+*.bak
+*.sublime-*
+
+# Test directories
+/__tests__/coverage/
+/__tests__/snapshots/
+
+# Environment files
+.env
+.env.test
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Custom files (You may also add any custom files here)
+# debug.log
+# custom.log
